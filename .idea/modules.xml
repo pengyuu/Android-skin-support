@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-skin-support-master 11.26.51.iml" filepath="$PROJECT_DIR$/Android-skin-support-master 11.26.51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skin-app/skin-app.iml" filepath="$PROJECT_DIR$/skin-app/skin-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skin-night/skin-night.iml" filepath="$PROJECT_DIR$/skin-night/skin-night.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skin-support/skin-support.iml" filepath="$PROJECT_DIR$/skin-support/skin-support.iml" />
+      <module fileurl="file://$PROJECT_DIR$/skin-support-design/skin-support-design.iml" filepath="$PROJECT_DIR$/skin-support-design/skin-support-design.iml" />
+    </modules>
+  </component>
+</project>
